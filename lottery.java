@@ -46,7 +46,7 @@ public class lottery {
           while(N!=0 && C!=0 && K!=0){
           
               
-          while (N<=0 || N>1000 || C<=0 || C>10 || C>=K || K >100 ){
+          while (N<=0 || N>10000 || C<=0 || C>10 || C>=K || K >100 ){
            System.out.println("Uno de los valores es invalido o cero ¡y vamos comenzando!, por favor introduce los 3 numeros otra vez");
            N= reader.nextInt();
            C= reader.nextInt();
