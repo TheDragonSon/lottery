@@ -5,6 +5,8 @@ El día jueves se dio a conocer el #RigoChallenge :sunglasses: dónde se plantea
 [Parte 1] (https://ibb.co/eUGm09)
 [Parte 2] (https://ibb.co/hxdMYU)
 
+El .java de la solución es el que dice Solución 
+
 Y la solución después de entenderlo fue la siguiente: 
 1. Crear el código para recibir los números N, C, K 
 * Estos números deben cumplir ciertas condiciones para ser aceptados: 
@@ -26,4 +28,5 @@ con la función random, y así le deje el nombre. Pero representa los números d
 3. La solución se basa en ciclos for, y en if´s. 
 
 Sé que debe haber una forma más compacta de resolverlo, y aún me falta validar que las entradas en un sólo sorteo no sean números
-repetidos. 
+repetidos. ¡LO HARÉ MÁS TARDE! :wink:
+Tengo que ir a trabajar :bowtie:
