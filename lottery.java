@@ -18,9 +18,9 @@ public class lottery {
      
       
         
-        int N=0;
-        int C=0; 
-        int K=0; 
+        int N = 0;
+        int C = 0; 
+        int K = 0; 
        
         int random; 
         int [] contador; 
