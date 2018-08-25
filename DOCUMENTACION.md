@@ -28,5 +28,7 @@ con la función random, y así le deje el nombre. Pero representa los números d
 3. La solución se basa en ciclos for, y en if´s. 
 
 Sé que debe haber una forma más compacta de resolverlo, y aún me falta validar que las entradas en un sólo sorteo no sean números
-repetidos. ¡LO HARÉ MÁS TARDE! :wink:
+repetidos y validar que no introduzcas letras o no números.
+
+¡LO HARÉ MÁS TARDE! :wink:
 Tengo que ir a trabajar :bowtie:
